@@ -1,0 +1,23 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_distribution": {
+    "热播剧集": 200,
+    "国产精选": 200,
+    "动作犯罪": 200,
+    "都市爱情": 200,
+    "喜剧生活": 200,
+    "科幻奇幻": 200,
+    "悬疑推理": 200,
+    "历史战争": 200,
+    "动漫综艺": 200,
+    "海外电影": 200
+  },
+  "baidu_analytics_html_pages": 2015,
+  "html_pages_total": 2015,
+  "missing_analytics_files": [],
+  "video_url_sources_found_in_original_js": 20,
+  "logo": "国产精品不卡影视",
+  "generated_at": "2026-06-01T09:42:48.753406Z"
+}
